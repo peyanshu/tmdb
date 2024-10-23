@@ -1,4 +1,4 @@
-"use client"
+
 
 import { MyContextProvider } from '@/utils/context'
 import './globals.css'
